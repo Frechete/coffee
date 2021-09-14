@@ -3,6 +3,7 @@ main: main.cpp
 
 Debug: main
 
-clean:
-	rm main
+clean: rm main
+
+check: ./main data.txt
 
