@@ -13,7 +13,9 @@ To avoid two or more worker utilizing the same table at the same time I utilized
 Entering any input from the keyboard would cause the system to exit after the current order is completed.
 
 #Usage: 
+
 add to a dir and run:
 make
+
 Then run:
 ./main data.txt
